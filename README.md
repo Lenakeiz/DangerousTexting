@@ -5,6 +5,8 @@
 ## *Look no further I have got the perfect anti-stress for you!*
 Just play **DangerousTexting** for a couple of minutes and you will forget everything about your stressing commuting back home!
 
+![alt text](https://github.com/Lenakeiz/DangerousTexting/blob/main/Assets/Screenshots/Screenshot.png "DangerousTexting")
+
 ## How to play
 Click with your mouse spawn projectiles and warn the distracted texters
 
