@@ -11,7 +11,7 @@ Just play **DangerousTexting** for a couple of minutes and you will forget every
 Click with your mouse spawn projectiles and warn the distracted texters
 
 ## Disclaimer
-I made this project to play around with Ragdoll systems.
+I made this project to play around with Ragdoll systems. Made with Unity 2020.3.2f1.
 
 ## Resources
 Everything is being made using free assets:
